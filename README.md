@@ -6,18 +6,18 @@
 
 
 
-![РИСУНОК](https://gspics.org/images/2022/12/03/0Xbfn8.png)  
+![РИСУНОК](https://gspics.org/images/2022/12/04/0Xj57x.png)  
 
-Рисунок 12.1 - Папка Sprites 
+Рисунок 12.1 - Main Scena
 
-![РИСУНОК](https://gspics.org/images/2022/12/03/0XbNoR.png )  
+![РИСУНОК](https://gspics.org/images/2022/12/04/0XjlFw.png)  
 
-Рисунок 12.2 - Окно Inspector объекта «Player»
+Рисунок 12.2 - Окно Hierarchy
 
-![РИСУНОК](https://gspics.org/images/2022/12/03/0Xbj0E.png)  
+![РИСУНОК](https://gspics.org/images/2022/12/04/0XjbaN.png)  
 
-Рисунок 12.3 - Окно Inspector объекта «Enemy»
+Рисунок 12.3 - Окно Inspector объекта «Timer UI v1»
 
-![РИСУНОК](https://gspics.org/images/2022/12/03/0XbqHj.png)  
+![РИСУНОК](https://gspics.org/images/2022/12/04/0Xjezv.png)  
 
-Рисунок 12.4 - Окно Inspector объекта «Bullet»
+Рисунок 12.4 - Окно Inspector объекта «Timer UI v2»
